@@ -1,0 +1,6 @@
+settings.json
+node_modules
+bower_components
+generated
+=1.11.1
+.DS_Store

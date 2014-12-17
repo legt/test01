@@ -1,0 +1,16 @@
+{
+  "name": "test01",
+  "version": "0.0.0",
+  "homepage": "https://github.com/legt/test01",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1"
+  }
+}
